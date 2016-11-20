@@ -32,7 +32,15 @@ const Resources = () => (
             </ListItem>
             <br />
             <ListItem>
-                Find me on Twitter @wilsonyhlee
+                Find me on Twitter <b>@wilsonyhlee</b>
+            </ListItem>
+            <ListItem>
+                <b>Link to these slides: </b>
+                https://goo.gl/sGC1rF
+            </ListItem>
+            <ListItem>
+                <b>Spectacle, ReactJS presentation framework: </b>
+                https://goo.gl/H1eNXh
             </ListItem>
         </List>
     </div>
