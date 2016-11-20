@@ -12,7 +12,7 @@ const CongressExample = (props) => (
             Congressional Committees Demo
         </Heading>
 
-        <Link href="">
+        <Link href="https://goo.gl/aP9ss5">
             <Heading size={6} lineHeight={1} textColor={lightText}>
                 https://goo.gl/aP9ss5
             </Heading>
