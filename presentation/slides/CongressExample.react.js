@@ -9,12 +9,12 @@ const lightText = "#ccc";
 const CongressExample = (props) => (
     <div>
         <Heading fit size={2} lineHeight={1} textColor={lightText}>
-            Demo
+            Congressional Committees Demo
         </Heading>
 
         <Link href="">
             <Heading size={6} lineHeight={1} textColor={lightText}>
-
+                https://goo.gl/aP9ss5
             </Heading>
         </Link>
     </div>
