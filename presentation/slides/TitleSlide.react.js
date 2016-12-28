@@ -15,7 +15,7 @@ const SubHeading = (props) => (
 const TitleSlide = () => (
     <div>
         <h2 style={{color: EEE, fontSize: '4rem'}}>
-            Responsive UI for Complicated (and Unusual) Data with D3.js
+            Interactive UI for Complex (and Unusual) Data with D3.js
         </h2>
 
         <SubHeading text="DevFest NYC, Nov 20, 2016" />
